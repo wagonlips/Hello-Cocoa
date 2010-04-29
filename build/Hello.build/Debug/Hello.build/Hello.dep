@@ -1,0 +1,10 @@
+654ae1659fd2ac097fec73d5de16808f 4c4e3c1ca297f15f30efd49573b1cb8f ffffffffffffffffffffffffffffffff 102 /Users/sean/Documents/Xcode/Hello-Cocoa/build/Debug/Hello.app
+b5d8fa569782b73769be44af5b711464 124252ae28e003ce537d2ab2d37d2b39 ffffffffffffffffffffffffffffffff 15928 /Users/sean/Documents/Xcode/Hello-Cocoa/build/Debug/Hello.app/Contents/MacOS/Hello
+08d350ccbdd48ce9d63618e6c8395ae1 174590ab7f39d4b6bde9d5f72e50729e ffffffffffffffffffffffffffffffff 16460 /Users/sean/Documents/Xcode/Hello-Cocoa/build/Hello.build/Debug/Hello.build/Objects-normal/x86_64/helloView.o
+08d350ccbdd57a4ad63618e6c839588c dfba3ff39381df65acf37c1285be5ac0 ffffffffffffffffffffffffffffffff 21056 /Users/sean/Documents/Xcode/Hello-Cocoa/build/Hello.build/Debug/Hello.build/Objects-normal/x86_64/HelloAppDelegate.o
+08d350ccf60d867ed63618e6c8395825 75f405c28cb04363ae92f5ac38a6c37c ffffffffffffffffffffffffffffffff 4992 /Users/sean/Documents/Xcode/Hello-Cocoa/build/Hello.build/Debug/Hello.build/Objects-normal/x86_64/main.o
+000000000b1c565c0000000000000168 08d350ccf60d867ed63618e6c8395852 ffffffffffffffffffffffffffffffff 54265616 /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_Prefix-azqcitnwsloyycdvlbxfhkrlusvu/Hello_Prefix.pch.gch
+000000004bd901cd000000000002c259 bbe8b1bcb6791b89170ebe20c9e8508b ffffffffffffffffffffffffffffffff 34583 /Users/sean/Documents/Xcode/Hello-Cocoa/build/Debug/Hello.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004bd8fc34000000000000002d 7938f82196c8fe805221a3e89ff02d2d ffffffffffffffffffffffffffffffff 92 /Users/sean/Documents/Xcode/Hello-Cocoa/build/Debug/Hello.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 7b1d90114f00e96035f707e1ef95205c ffffffffffffffffffffffffffffffff 8 /Users/sean/Documents/Xcode/Hello-Cocoa/build/Debug/Hello.app/Contents/PkgInfo
+00000000000000000000000000000000 7b1d90114f00e96035f707e1ef95205c ffffffffffffffffffffffffffffffff 880 /Users/sean/Documents/Xcode/Hello-Cocoa/build/Debug/Hello.app/Contents/Info.plist
